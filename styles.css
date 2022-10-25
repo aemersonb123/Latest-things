@@ -1,0 +1,8 @@
+.qualified {
+    border-style: initial;
+   border: 2px;
+   border-color: aqua;
+   margin-left: 3rem;
+   margin-right: 3rem;
+   background-color: beige;
+}
